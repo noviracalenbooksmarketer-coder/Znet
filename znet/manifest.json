@@ -1,0 +1,21 @@
+
+{
+  "short_name": "Znet",
+  "name": "Znet - ConnectNow",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/znet/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/znet/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#020617"
+}

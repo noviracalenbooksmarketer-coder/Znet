@@ -1,0 +1,9 @@
+
+{
+  "name": "Znet",
+  "description": "A high-speed, modern networking and chat platform with AI-enhanced interactions and social connectivity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
